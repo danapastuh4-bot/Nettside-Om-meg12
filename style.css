@@ -1,0 +1,24 @@
+body {
+    background-color: ghostwhite;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+h1 { 
+    font-family: Impact, sans-serif; 
+    font-size: 40px;
+}
+h2 {  
+    font-family: Impact, sans-serif;
+    font-size: 28px;
+}
+nav { 
+    background-color: darkblue;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
